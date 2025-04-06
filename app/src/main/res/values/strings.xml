@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">login-prueba</string>
+    <string name="cedula">Cedula</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="password">Password</string>
+    <string name="escribe_los_nuevos_datos">Escribe los nuevos datos:</string>
+    <string name="escribe_la_nueva_contraseña">Escribe la nueva contraseña:</string>
+    <string name="password_edit">Password</string>
+    <string name="cambiar_contraseña">Cambiar Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="cedula_edit">Cedula</string>
+    <string name="guardar_cambios">Guardar Cambios</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="nombre_info">Nombre:</string>
+    <string name="cedula_info">Cedula:</string>
+    <string name="editar_datos">Editar Datos</string>
+    <string name="cambiar_contrase_a">Cambiar contraseña</string>
+    <string name="cerrar_sesion">Cerrar sesion</string>
+</resources>
