@@ -1,5 +1,4 @@
 package com.example.login_prueba
-
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText

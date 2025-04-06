@@ -1,6 +1,6 @@
 package com.example.login_prueba
-
 import java.io.Serializable
+
 
 data class User(
     var cedula: String,
